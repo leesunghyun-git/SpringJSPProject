@@ -63,6 +63,9 @@ p {
 				</tr>
 				<tr>
 					<td class="text-right" colspan="3">
+						<button type="button" class="btn btn-sm btn-primary" onclick="javascript:history.back()">
+						예약(FullCalender)
+						</button>
 						<button type="button" class="btn btn-sm btn-danger" onclick="javascript:history.back()">
 						목록
 						</button>
